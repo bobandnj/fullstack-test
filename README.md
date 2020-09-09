@@ -4,7 +4,7 @@ A PHP project to integrate with the external ordering system and external wareho
 
 ## Background of the task
 
-This integration is the first step towards a full integration with multiple warehouses and ordering systems. We would like to support integration with multiple external systems and to be able to collect warehouse items and orders several times per day.
+This integration is the first step towards full integration with multiple warehouses and ordering systems. We would like to build a reliable system that integrates with multiple external systems and to be able to collect warehouse items and orders several times per day.
 
 ## Requirements
 
